@@ -1,0 +1,60 @@
+
+body{
+    margin: 0px;
+}
+.bg_sticky{
+
+    background-image: url(resorces/image1.png);
+    text-align: center;
+    
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#bg_dark{
+    background-color: rgba(34, 33, 33, 0.541);
+    color: whitesmoke;
+}
+#img0{
+    background-image: url(resorces/image1.png);
+}
+#img1{
+    background-image: url(resorces/image2.jpg);
+    background-size: cover;
+}
+#img2{
+    background-image: url(resorces/image3.jpg);
+    background-size: cover;
+}
+
+#img3{
+    background-image: url(resorces/image1.png);
+}
+.bg_sticky h1{
+    vertical-align: middle;
+    margin-top: 280px;
+   
+    background-color: rgba(61, 58, 58, 0.747);
+    display: inline-block;
+    border-radius: 5px;
+    color: azure;
+}
+.text_area{
+    background-color: antiquewhite;
+    text-align: center;
+    color: rgba(81, 81, 202, 0.788);
+    padding: 10px 50px;
+    text-align: justify;
+}
+.text_area h2{
+    text-align: center;
+    
+}
+.self_dec{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin: -20px;
+    padding: 0px;
+}
